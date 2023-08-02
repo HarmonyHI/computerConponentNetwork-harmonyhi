@@ -1,2 +1,5 @@
 # computerConponentNetwork-harmonyhi
-SDUST计算机组成原理计算机网络
+SDUST
+计算机组成原理
+计算机网络
+机器学习手写数字识别
